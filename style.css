@@ -106,6 +106,7 @@ body {
   border: 1px solid hsla(0, 36%, 70%, 0.705);
   border-right: none;
   padding-right: 80px;
+  outline: none;
 }
 
 ::placeholder {
@@ -126,6 +127,7 @@ body {
   position: relative;
   right: 40px;
   box-shadow: 0px 10px 34px -7px hsl(0, 93%, 68%);
+  outline: none;
 }
 
 .button:hover{
