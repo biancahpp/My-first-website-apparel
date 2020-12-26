@@ -6,3 +6,6 @@ It is a simple website where you can insert your e-mail to receive notifications
 
 If you want to check it out click [here](https://sad-neumann-9c6543.netlify.app/).
 
+
+
+Please note this website is not responsive since it was made during my early stages of learning.
