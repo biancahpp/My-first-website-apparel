@@ -4,5 +4,5 @@ This website was my first website, based on a project from Frondendmentor.io whi
 
 It is a simple website where you can insert your e-mail to receive notifications from this company. It will also validate the user's e-mail address.
 
-If you want to check it out click [here](https://reverent-knuth-ec436c.netlify.app/)
+If you want to check it out click [here](https://sad-neumann-9c6543.netlify.app/).
 
